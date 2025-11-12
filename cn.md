@@ -6,7 +6,7 @@ title: 王耀东的个人主页
 
 ## 关于我
 
-<img src="https://github.com/wangyd97/wangyd97.github.io/tree/main/images/profile.png" class="floatpic">
+<img src="https://github.com/wangyd97/wangyd97.github.io/tree/main/images/personal/profile.png" class="floatpic">
 
 <br>首先感谢您的阅读。我是王耀东，1997年生，安徽铜陵人。国家公派留学博士生。
 
