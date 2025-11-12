@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="" class="floatpic">
 
 Here is **Yaodong Wang** [(王耀東)](#URL).<br>
 
