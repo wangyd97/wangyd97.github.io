@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="" class="floatpic">
+<img src="https://wangyd97.github.io/images/personal/profile.png" class="floatpic">
 
 Here is **Yaodong Wang** [(王耀東)](#URL).<br>
 
