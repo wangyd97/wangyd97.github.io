@@ -12,7 +12,7 @@ I am a first-year PhD student in the [Machinery Dynamics Lab](https://mdl.hirosh
 
 Prior to Hiroshima University, I have worked on Viusal servoing and admittance control under the guidance of Prof. Ryo kikuuwe.
 
-If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **250162 [at] hiroshima-u.ac.jp**
+If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **d250162 [at] hiroshima-u.ac.jp**
 
 ---
 
