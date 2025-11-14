@@ -15,6 +15,6 @@ This research focuses on the challenges posed by complex and dynamic operating c
 
 - XXX
 <center>
-<img src= #URL style="width: 50%;"/>
+<img src= "" style="width: 50%;"/>
 </center>
 

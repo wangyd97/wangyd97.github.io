@@ -21,7 +21,7 @@ title: 王耀东的个人主页
 具体来说，我的工作可应用于：
 * **高精度物流定位与抓取**
 <center>
-<img src=#URL  style="width: 50%;"/>
+<img src=""  style="width: 50%;"/>
 </center>
 
 * **农业领域定向授粉或病虫害精准喷洒**
@@ -32,7 +32,7 @@ title: 王耀东的个人主页
 * **危险或极限环境下的自主检查与维护**（如核电站、深海作业、高空风力发电机维护等）
 
 <center>
-<img src=#URL  style="width: 50%;"/>
+<img src=""  style="width: 50%;"/>
 </center>
 ---
 
