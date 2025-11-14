@@ -27,7 +27,9 @@ title: Publications
 
 ## Degree Thesis
 
-- [Research on foot contact state detection technology of wheel-legged robot](#journal-papers)<br>**Hanlin Cai** (Advisor: Dr. Min Guo).<br>Thesis awarded Distinction.
+- [Research on foot contact state detection technology of wheel-legged robot](#journal-papers)<br>**Yaodong Wang** (Advisor: Dr. Min Guo).<br>
+  
+- [Visual servo control utilizing force information for industrial robots in complex environments](#journal-papers)<br>**Yaodong Wang** (Advisor: Dr. Ryo Kikuuwe).<br>
 
 
 <br>
