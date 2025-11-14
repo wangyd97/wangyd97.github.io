@@ -36,7 +36,7 @@ title: CV
 [Publications](https://wangyd97.github.io/publications/)
 
 
-## Education
+## Awards
 - June 2025：**CSC Scholarship** (totally $40000 for tuition waiver and stipend)
 - 
 <br>
