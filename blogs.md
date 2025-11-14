@@ -29,6 +29,8 @@ title: Blogs
 
 ## Leave a Message 欢迎留言
 
+{% include disqus.html %} 
+
 <br>
 
 Finally, my WeChat account is - cwjykdk
