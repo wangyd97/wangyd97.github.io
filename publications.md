@@ -8,9 +8,9 @@ title: Publications
 
 ## Journal Papers
 
-- [Research on Foot Contact State Detection Technology of Wheel-Legged Robot](https://www.mdpi.com/1424-8220/24/12/3956?utm_source=researchgate.net&medium=article)<br>**Yaodong Wang**, Meng Hong, Hui Chai, Yinglong Zhang, Guan Wang, Chaoqun Wu Min Guo~<br>Published in Sensors, 2025.<br>
+- [Research on Foot Contact State Detection Technology of Wheel-Legged Robot](https://www.mdpi.com/1424-8220/24/12/3956?utm_source=researchgate.net&medium=article)<br>**Yaodong Wang**, Meng Hong, Hui Chai, Yinglong Zhang, Guan Wang, Chaoqun Wu Min Guo~<br>Published in *Sensors*, 2025.<br>
 
-- [Technology and Method Optimization for Foot–Ground Contact Force Detection in Wheel-Legged Robots](https://www.mdpi.com/1424-8220/25/13/4026)<br>Chao Huang, Meng Hong, **Yaodong Wang**, Hui Chai, Zhuo Hu, Zheng Xiao, Sijia Guan, Min Guo~<br>Published in Sensors, 2025.<br>
+- [Technology and Method Optimization for Foot–Ground Contact Force Detection in Wheel-Legged Robots](https://www.mdpi.com/1424-8220/25/13/4026)<br>Chao Huang, Meng Hong, **Yaodong Wang**, Hui Chai, Zhuo Hu, Zheng Xiao, Sijia Guan, Min Guo~<br>Published in *Sensors*, 2025.<br>
 
 
   <br>
