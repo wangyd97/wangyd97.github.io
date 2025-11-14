@@ -23,7 +23,7 @@ If you are interested in any aspect of me, I am always open to discussions and a
 
 ---
 
-## News and Updates
+## What's New
 
 - **October 2025**：Join in the Machinery Dynamics Lab(MDL)!
 

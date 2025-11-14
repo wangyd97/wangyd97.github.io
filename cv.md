@@ -1,26 +1,42 @@
 ---
 layout: page
 permalink: /cv/index.html
-title: Cv
+title: Curriculum Vitae (CV)
 
 ---
 
-> I am always open to reviewing manuscripts in areas related to 5G/6G communications, networking, security, machine learning and the broader field of artificial intelligence. If you have any relevant review requests, please feel free to invite me at - hc663[at]cam.ac.uk
+## Personal Information
 
-## Academic Services
+* **Given Name:** Ryo (pronounced as /rí·jou/)
+* **Family Name:** Kikuuwe (pronounced as /ki·kú·u·wè/)
+* **Position:** Professor
+* **Affiliation:** Graduate School of Advanced Science and Engineering, Hiroshima University
+* **Born:** July, 1975
+* **Birthplace:** Osaka, Japan
+* **Nationality:** Japanese
 
-- IEEE Communications Letters (2025)
-- IEEE International Conference on Communications (2025)
-- IEEE Global Communications Conference (2025)
-- IEEE Conference on Local Computer Networks (2025)
-- AAAI Conference on Artificial Intelligence (2025)
-- Elsevier Sustainable Cities and Society (2025)
+---
+
+## Contact Information
+
+* **Office Address:** Department of Mechanical Systems Engineering, Faculty of Engineering (Room 241, Building A3), Hiroshima University, 1-4-1 Kagamiyama, Higashi-Hiroshima, Hiroshima 739-8527, Japan
+* **Phone:** +81-82-424-7573
+* **Fax:** +81-82-424-7193
+* **Email:** [请在此处填写您的电子邮件地址]
+
+---
+
+## Education
+
+* **Ph.D. (Eng.) in Mechanical Engineering,** July 2003, Kyoto University
+* **M.S. in Mechanical Engineering,** March 2000, Kyoto University
+* **B.S. in Mechanical Engineering,** March 1998, Kyoto University
+
+---
+
+## Research Activities
+
+
 
 <br>
 
-## Teaching and Supervision
-
-- [Cambridge Undergraduate Part-IIB Project](https://teaching.eng.cam.ac.uk/content/part-iib-project-introduction)<br>Student: [Jon Tindal](https://www.linkedin.com/in/jon-tindal-a87668254/). Co-supervised with Prof. Ozgur Akan<br>Topic: Spectrum Sensing with Deep Learning for Cognitive Radio.
-
-
-<br>
