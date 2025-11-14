@@ -32,6 +32,4 @@ If you are interested in any aspect of me, I am always open to discussions and a
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is the first post, and I am happy to join in MDL! <a href="https://t.co/r5OvW1td7c">pic.twitter.com/r5OvW1td7c</a></p>&mdash; Wang (@Wangyaodong97) <a href="https://twitter.com/Wangyaodong97/status/1989213446421070041?ref_src=twsrc%5Etfw">November 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-> Focus is often a matter of deciding what things you're not going to do.
->
->                                                            ——— John Carmack
+> Focus is often a matter of deciding what things you're not going to do.   ——— John Carmack
