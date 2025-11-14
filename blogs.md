@@ -8,7 +8,21 @@ title: Blogs
 
 ### 2025
 
-- [随笔](#BLOGURL)<br>
+<ul>
+{% for item in site.pages %}
+  {% if item.url contains '/blogs/' and item.url != '/blogs/index.html' %} 
+    {% if item.date %}
+      {% if item.date | date: "%Y" == "2025" %}
+        <li>
+          <a href="{{ item.url }}">{{ item.title }}</a><br>
+        </li>
+      {% endif %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</ul>
+
+<br>
 
 
 <br>
