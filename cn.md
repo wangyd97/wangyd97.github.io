@@ -6,7 +6,7 @@ title: 王耀东的个人主页
 
 ## 关于我
 
-<img src="https://wangyd97.github.io/images/personal/personal.jpg" class="floatpic" style="width: 40%;"/>
+[//]: <img src="https://wangyd97.github.io/images/personal/personal.jpg" class="floatpic" style="width: 40%;"/>
 
 我在广岛大学（Hiroshima University）**机械动力学实验室 (Machinery Dynamics Lab, MDL)** 攻读博士学位，师从 **Prof. Ryo Kikuuwe**。我的博士研究方向聚焦于 **鲁棒视觉伺服 (Robust Visual Servoing)** 与 **柔顺控制 (Compliance Control)**，研究获得 **中国国家留学基金 (CSC)** 的资助。
 
