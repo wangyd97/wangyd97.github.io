@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /awards/index.html
-title: Awards
+permalink: /interests/index.html
+title: Interests
 ---
 
 ## Scholarships
