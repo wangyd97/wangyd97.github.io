@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-
+<br>
 Here is **Yaodong Wang** [(王耀東)](#URL).<br>
 
 I am a first-year PhD student in the [Machinery Dynamics Lab](https://mdl.hiroshima-u.ac.jp/index_en.html) at the Hiroshima University, supervised by [Prof. Ryo Kikuuwe](https://home.hiroshima-u.ac.jp/kikuuwe/), and funded by the CSC Scholarships.
