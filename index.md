@@ -18,9 +18,9 @@ If you are interested in any aspect of me, I am always open to discussions and a
 
 ## Research Interests
 
-- [Visual servoing](https://wangyd97.github.io/interests/) (#Visual servoing control system)
+- [Visual servoing](https://wangyd97.github.io/interests/#visual-servoing)
   
-- [Compliance control](https://wangyd97.github.io/interests/)
+- [Compliance control](https://wangyd97.github.io/interests/#compliance-control)
 
 ---
 
