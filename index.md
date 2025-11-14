@@ -34,4 +34,4 @@ If you are interested in any aspect of me, I am always open to discussions and a
 
 > Focus is often a matter of deciding what things you're not going to do.
 >
->                                                               — John Carmack
+>                                                            ——— John Carmack
