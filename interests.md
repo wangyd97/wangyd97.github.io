@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /interests/index.html
 title: Interests
 ---
