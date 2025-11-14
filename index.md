@@ -6,11 +6,11 @@ layout: page
 
 <br>
 Here is **Yaodong Wang** [(王耀東)](#URL).
-<br>
+<br><br>
 I am a first-year PhD student in the [Machinery Dynamics Lab](https://mdl.hiroshima-u.ac.jp/index_en.html) at the Hiroshima University, supervised by [Prof. Ryo Kikuuwe](https://home.hiroshima-u.ac.jp/kikuuwe/), and funded by the CSC Scholarships.
-<br>
+<br><br>
 Prior to Hiroshima University, I have worked on Viusal servoing and Compliance control under the guidance of Prof. Ryo kikuuwe.
-<br>
+<br><br>
 If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **d250162[at]hiroshima-u.ac.jp**
 
 ---
