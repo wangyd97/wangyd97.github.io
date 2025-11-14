@@ -7,36 +7,34 @@ title: Curriculum Vitae (CV)
 
 ## Personal Information
 
-* **Given Name:** Ryo (pronounced as /rí·jou/)
-* **Family Name:** Kikuuwe (pronounced as /ki·kú·u·wè/)
-* **Position:** Professor
+* **Given Name:** Yaodong (pronounced as /rí·jou/)
+* **Family Name:** Wang (pronounced as /ki·kú·u·wè/)
+* **Degree:** Master
 * **Affiliation:** Graduate School of Advanced Science and Engineering, Hiroshima University
-* **Born:** July, 1975
-* **Birthplace:** Osaka, Japan
-* **Nationality:** Japanese
+* **Born:** June, 1997
+* **Birthplace:** Anhui, China
+* **Nationality:** Chinese
 
 ---
 
 ## Contact Information
 
-* **Office Address:** Department of Mechanical Systems Engineering, Faculty of Engineering (Room 241, Building A3), Hiroshima University, 1-4-1 Kagamiyama, Higashi-Hiroshima, Hiroshima 739-8527, Japan
-* **Phone:** +81-82-424-7573
-* **Fax:** +81-82-424-7193
-* **Email:** [请在此处填写您的电子邮件地址]
+* **Office Address:** Department of Mechanical Systems Engineering, Faculty of Engineering (Room 233, Building A3), Hiroshima University, 1-4-1 Kagamiyama, Higashi-Hiroshima, Hiroshima 739-8527, Japan
+* **Phone:** +81-070-9170-8280
+* **Email:** [d250162[at]hiroshima-u.ac.jp]
 
 ---
 
 ## Education
 
-* **Ph.D. (Eng.) in Mechanical Engineering,** July 2003, Kyoto University
-* **M.S. in Mechanical Engineering,** March 2000, Kyoto University
-* **B.S. in Mechanical Engineering,** March 1998, Kyoto University
+* **Ph.D. (Eng.) in Mechanical Engineering,** October 2025 - now, Hiroshima University
+* **M.S. in Mechanical Engineering,** September 2022 - June 2025, Wuhan University of Technology
+* **B.S. in Mechatronics Engineering,** September 2015 - June 2019, Wuhan University of Science and Technology 
 
 ---
 
 ## Research Activities
 
-
-
+(https://wangyd97.github.io/publications/)
 <br>
 
