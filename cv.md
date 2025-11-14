@@ -35,6 +35,6 @@ title: Curriculum Vitae (CV)
 
 ## Research Activities
 
-(https://wangyd97.github.io/publications/)
+[Publications](https://wangyd97.github.io/publications/)
 <br>
 
