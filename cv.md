@@ -7,8 +7,8 @@ title: Curriculum Vitae (CV)
 
 ## Personal Information
 
-* **Given Name:** Yaodong (pronounced as /rí·jou/)
-* **Family Name:** Wang (pronounced as /ki·kú·u·wè/)
+* **Given Name:** Yaodong (pronounced as /yào dōng/)
+* **Family Name:** Wang (pronounced as /wáng/)
 * **Degree:** Master
 * **Affiliation:** Graduate School of Advanced Science and Engineering, Hiroshima University
 * **Born:** June, 1997
