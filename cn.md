@@ -9,7 +9,7 @@ title: 王耀东的个人主页
 [//]: <img src="https://wangyd97.github.io/images/personal/personal.jpg" class="floatpic" style="width: 40%;"/>
 
 我在广岛大学（Hiroshima University）**机械动力学实验室 (Machinery Dynamics Lab, MDL)** 攻读博士学位，师从 **Prof. Ryo Kikuuwe**。我的博士研究方向聚焦于 **鲁棒视觉伺服 (Robust Visual Servoing)** 与 **柔顺控制 (Compliance Control)**，研究获得 **中国国家留学基金 (CSC)** 的资助。
-<br>
+<br><br>
 我预计将于 2028 年 9 月完成博士学位，并计划尽早回国寻找教职或工业界的机会。如果您有招聘需求或是相关信息，感谢您随时与我联系（联系方式详见文末）。
 
 ---
@@ -17,8 +17,8 @@ title: 王耀东的个人主页
 ## 研究兴趣与方向
 
 我对 **稳定且安全的视觉伺服** 技术有深入的研究兴趣，主要针对各种复杂、动态的工况环境。我的研究目标是开发出能够在 **视野丢失、环境干扰、快速定位** 等挑战性环境下，仍能保持高精度、高鲁棒性的视觉定位和控制算法。
-
 具体来说，我的工作可应用于：
+
 * **高精度物流定位与抓取**
 <center>
 <img src="" height="480"  style="width: 50%;"/>
