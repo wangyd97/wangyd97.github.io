@@ -19,12 +19,12 @@ If you are interested in any aspect of me, I am always open to discussions and a
 ## Near future and Ongoing
 
 - 
-  
+
 ---
 
 ## What's New
 
-- **2025/10/1:** Join in the Machinery Dynamics Lab(MDL)!
+- **2025/10/1:** Join in Kikuuwe Group, Machinery Dynamics Lab (MDL)!
 - **2025/10/31:** Congratulations to the MDL Workshop.
   
 ---
