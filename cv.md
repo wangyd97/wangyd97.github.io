@@ -4,7 +4,7 @@ permalink: /cv/index.html
 title: Curriculum Vitae (CV)
 
 ---
-
+<img src="https://wangyd97.github.io/images/personal/personal2.jpg" class="floatpic">
 * **Given Name:** Yaodong (pronounced as /yào dōng/)
 * **Family Name:** Wang (pronounced as /wáng/)
 * **Degree:** Master
