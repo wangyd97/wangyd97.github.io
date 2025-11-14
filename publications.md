@@ -41,16 +41,6 @@ title: Publications
 
 ---
 
-## Early Project
-
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project ([thesis](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), [Undergraduate Consortium](https://aaai.org/aaai-24-conference/undergraduate-consortium-program/).<br>Vancouver, Canada. February, 2024.<br>
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics.
-
-  <br>
-
----
-
 ## Degree Thesis
 
 - [Semantic Communication for the Internet of Everything: From Molecular to Space Networks](https://caihanlin.com/mypaper/thesis/MPhil_thesis.pdf)<br>**Hanlin Cai** (Advisor: Dr. Ozgur B. Akan).<br>Examiners: [Dr. Sasitharan Balasubramaniam](https://computing.unl.edu/person/sasitharan-balasubramaniam/), [Dr. Qixiang Cheng](https://www.eng.cam.ac.uk/profiles/qc223).<br>Thesis awarded Distinction.<br>
