@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv/index.html
-title: Curriculum Vitae (CV)
+title: CV
 
 ---
 <img src="https://wangyd97.github.io/images/personal/personal2.jpg" class="floatpic">
