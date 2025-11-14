@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /tests/index.html
-title: Services
+title: Tests
 
 ---
 
