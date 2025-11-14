@@ -16,17 +16,24 @@ If you are interested in any aspect of me, I am always open to discussions and a
 
 ---
 
+## Near future and Ongoing
+
+- 
+  
+---
+
+## What's New
+
+- **2025/10/1:**：Join in the Machinery Dynamics Lab(MDL)!
+- **2025/10/31:**：Congratulations to the MDL Workshop.
+  
+---
+
 ## Research Interests
 
 - [Visual servoing](https://wangyd97.github.io/interests/#visual-servoing)
   
 - [Compliance control](https://wangyd97.github.io/interests/#compliance-control)
-
----
-
-## What's New
-
-- **October 2025**：Join in the Machinery Dynamics Lab(MDL)!
 
 <br>
 
