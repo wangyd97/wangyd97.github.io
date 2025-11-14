@@ -5,8 +5,6 @@ title: Curriculum Vitae (CV)
 
 ---
 
-## Personal Information
-
 * **Given Name:** Yaodong (pronounced as /yào dōng/)
 * **Family Name:** Wang (pronounced as /wáng/)
 * **Degree:** Master
@@ -36,5 +34,6 @@ title: Curriculum Vitae (CV)
 ## Research Activities
 
 [Publications](https://wangyd97.github.io/publications/)
+
 <br>
 
