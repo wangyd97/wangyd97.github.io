@@ -29,7 +29,7 @@ title: Publications
 
 - [Research on foot contact state detection technology of wheel-legged robot](#journal-papers)<br>**Yaodong Wang** (Advisor: Dr. Min Guo).<br>
   
-- [Visual servo control utilizing force information for industrial robots in complex environments](#journal-papers)<br>**Yaodong Wang** (Advisor: Dr. Ryo Kikuuwe).<br>
+- [Visual servo control utilizing force information for industrial robots in complex environments](#journal-papers)(**Current topic**)<br>**Yaodong Wang** (Advisor: Dr. Ryo Kikuuwe).<br>
 
 
 <br>
