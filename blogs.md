@@ -17,11 +17,6 @@ title: Blogs
 
 <br>
 
-{% include disqus.html %} 
-
-<br>
-
-
 Finally, my WeChat account is - cwjykdk
 
 <br>
