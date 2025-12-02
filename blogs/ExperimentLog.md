@@ -9,5 +9,5 @@ permalink: /blogs/experiments/
 >This is for my daliy experiment recording.
 
 <center>
-<img src="/blogs/blogs.assets/differentLambda2.png">
+<img src="/blogs/blogs.assets/experiment.jpg">
 </center>
