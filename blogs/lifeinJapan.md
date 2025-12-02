@@ -21,7 +21,7 @@ permalink: /blogs/life in Japan/
 {% assign folder = site.static_files | where: "path", "/blogs/blogs.assets/life in japan" %}
 {% for file in site.static_files %}
   {% if file.path contains "/blogs/blogs.assets/life in japan/" %}
-    <img src="{{ blogs\blogs.assets\life in japan }}" style="width:100%; break-inside:avoid; margin-bottom:20px;">
+    <img src="{{ file.path }}" style="width:100%; break-inside:avoid; margin-bottom:20px;">
   {% endif %}
 {% endfor %}
 {% endraw %}
