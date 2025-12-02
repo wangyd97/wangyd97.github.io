@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: 日本生存实况
-date: 2025-11-30 12:02 +0800  
+date: 2025-12-02 12:02 +0800  
 permalink: /blogs/random-thoughts/ 
 ---
 
