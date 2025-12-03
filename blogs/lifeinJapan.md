@@ -14,6 +14,10 @@ permalink: /blogs/life in Japan/
 最近的中日问题变得更加尖锐了，也不知道什么时候能有个定论。
 
 ---
+2025/12/03
+[林剑：中国常驻联合国代表团再次就高市早苗错误言论致函联合国秘书长]
+
+---
 
 <div style="column-count: 2; column-gap: 20px;">
 
