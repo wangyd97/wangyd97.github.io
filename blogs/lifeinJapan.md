@@ -24,6 +24,8 @@ permalink: /blogs/life in Japan/
 - [日本青森县发生M7.5地震，今后一周需保持警惕](https://cn.nikkei.com/politicsaeconomy/politicsasociety/60676-2025-12-09-09-40-52.html)
   这个地震离我这倒是挺远（直线距离1400公里），如果是9号发生的地震，相当于这段时间一直到下周一左右都需要注意一些。不过总感觉国内对于这边的情况更为关注呢
 
+---
+
 <div style="column-count: 2; column-gap: 20px;">
 
 {% assign photos = site.static_files | where: "path", "/blogs/blogs.assets/daliy" %}
