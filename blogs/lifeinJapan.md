@@ -41,8 +41,13 @@ permalink: /blogs/life in Japan/
 现在并不知道具体是个什么样的情况，咱再看看吧。最近的实验倒是眼前最大的问题。
 
 ---
+- [国家公祭网](http://www.cngongji.cn/japan.htm)
 
-- 2025年
+“不愿战，不怕战”
+
+---
+
+- 2025年相册
   
 <div style="column-count: 2; column-gap: 20px;">
 
