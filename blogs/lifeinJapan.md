@@ -42,7 +42,8 @@ permalink: /blogs/life in Japan/
 
 ---
 
-
+- 2025年
+  
 <div style="column-count: 2; column-gap: 20px;">
 
 {% assign photos = site.static_files | where: "path", "/blogs/blogs.assets/daliy" %}
