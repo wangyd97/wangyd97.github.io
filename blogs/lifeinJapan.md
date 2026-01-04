@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: 日本生存实况
+title: 生活记录
 date: 2026-01-04 18:02 +0800  
 permalink: /blogs/life in Japan/ 
 ---
