@@ -5,8 +5,8 @@ date: 2025-12-02 12:02 +0800
 permalink: /blogs/life in Japan/ 
 ---
 
-<details markdown="1" style="padding: 0 10px;">
-  <summary style="cursor: pointer; font-size: 1.5em; font-weight: bold; margin: 1em 0; color: #333;">
+<details markdown="1" style="padding: 0 0px;">
+  <summary style="cursor: pointer; font-size: 1.0em; font-weight: bold; margin: 1em 0; color: #333;">
     🗓️ 2025: 开启博士生涯与动荡感 (20250101-20251231)
   </summary>
 
@@ -68,8 +68,8 @@ permalink: /blogs/life in Japan/
 
 ---
 
-<details markdown="1" style="padding: 0 10px;">
-  <summary style="cursor: pointer; font-size: 1.5em; font-weight: bold; margin: 1em 0; color: #333;">
+<details markdown="1" style="padding: 0 0px;">
+  <summary style="cursor: pointer; font-size: 1.0em; font-weight: bold; margin: 1em 0; color: #333;">
     🗓️ 2026: 活得清醒，持续输出 (20260101-20261231)
   </summary>
 
