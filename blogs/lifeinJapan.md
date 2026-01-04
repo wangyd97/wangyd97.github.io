@@ -65,6 +65,8 @@ Miyajimacho, Hatsukaichi, Hiroshima 739-0588
   {% endif %}
 {% endfor %}
 
+</div>
+
 ---
 
 >20260101-20261231
@@ -86,4 +88,4 @@ Miyajimacho, Hatsukaichi, Hiroshima 739-0588
 以上
 
 ---
-</div>
+
