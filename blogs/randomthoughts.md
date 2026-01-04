@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: 生活记录、随笔、胡思乱想
+title: 胡思乱想
 date: 2026-01-04 18:02 +0800  
 permalink: /blogs/random-thoughts/ 
 ---
