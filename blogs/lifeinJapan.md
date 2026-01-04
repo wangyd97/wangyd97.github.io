@@ -49,23 +49,22 @@ permalink: /blogs/life in Japan/
 
 ---
 
-2025/12/31
+### 2025/12/31
+**宫岛，跨年** *Miyajimacho, Hatsukaichi, Hiroshima 739-0588*
 
-宫岛，跨年
+<details>
+  <summary style="cursor: pointer; color: #2196F3; font-weight: bold;">
+    📸 点击展开/收起跨年照片
+  </summary>
 
-Miyajimacho, Hatsukaichi, Hiroshima 739-0588
-
-<div style="column-count: 3; column-gap: 20px;">
-
-{% assign photos = site.static_files | where: "path", "/blogs/blogs.assets/daliy" %}
-
-{% for file in site.static_files %}
-  {% if file.path contains "/blogs/blogs.assets/miyajima/" %}
-    <img src="{{ file.path }}" style="width: 100%; break-inside: avoid; margin-bottom: 20px;">
-  {% endif %}
-{% endfor %}
-
-</div>
+  <div style="column-count: 3; column-gap: 20px; margin-top: 15px;">
+    {% for file in site.static_files %}
+      {% if file.path contains "/blogs/blogs.assets/miyajima/" %}
+        <img src="{{ file.path }}" style="width: 100%; display: block; break-inside: avoid; margin-bottom: 20px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+      {% endif %}
+    {% endfor %}
+  </div>
+</details>
 
 ---
 
