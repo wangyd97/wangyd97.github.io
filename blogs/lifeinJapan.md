@@ -50,10 +50,12 @@ permalink: /blogs/life in Japan/
 ---
 
 2025/12/31
+
 宫岛，跨年
+
 Miyajimacho, Hatsukaichi, Hiroshima 739-0588
 
-<div style="column-count: 2; column-gap: 20px;">
+<div style="column-count: 3; column-gap: 20px;">
 
 {% assign photos = site.static_files | where: "path", "/blogs/blogs.assets/daliy" %}
 
