@@ -5,7 +5,7 @@ date: 2025-12-02 12:02 +0800
 permalink: /blogs/life in Japan/ 
 ---
 
-<details open markdown="1">
+<details markdown="1" style="padding: 0 15px;">
   <summary style="cursor: pointer; font-size: 1.5em; font-weight: bold; margin: 1em 0; color: #333;">
     🗓️ 2025: 开启博士生涯与动荡感 (20250101-20251231)
   </summary>
@@ -49,7 +49,7 @@ permalink: /blogs/life in Japan/
 ### 2025/12/31
 **宫岛，跨年** *Miyajimacho, Hatsukaichi, Hiroshima 739-0588*
 
-<details>
+<details markdown="1">
   <summary style="cursor: pointer; color: #2196F3; font-weight: bold; margin-left: 20px;">
     📸 点击展开/收起相册
   </summary>
@@ -68,8 +68,8 @@ permalink: /blogs/life in Japan/
 
 ---
 
-<details open markdown="1">
-  <summary style="cursor: pointer; font-size: 1.5em; font-weight: bold; margin: 1em 0; color: #333;">
+<details markdown="1" style="padding: 0 15px;">
+  <summary style="padding: 0 15px; cursor: pointer; font-size: 1.5em; font-weight: bold; margin: 1em 0; color: #333;">
     🗓️ 2026: 活得清醒，持续输出 (20260101-20261231)
   </summary>
 
@@ -92,6 +92,9 @@ permalink: /blogs/life in Japan/
 
 以上
 
-</details>
+---
+
+### 2026/01/0
 
 ---
+</details>
