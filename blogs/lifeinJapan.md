@@ -66,15 +66,6 @@ permalink: /blogs/life/
 
 </details>
 
-</details>
-
----
-
-<details markdown="1" style="padding: 0 0px;">
-  <summary style="cursor: pointer; font-size: 1.25em; font-weight: bold; margin: 1em 0; color: #333;">
-    🗓️ 2026: 活得清醒，持续输出 (20260101-20261231)
-  </summary>
-
 ---
 
 ### 2026/01/01
@@ -94,6 +85,14 @@ permalink: /blogs/life/
 2026 年结束，希望我能做到更清晰的表达大脑中的想法，思路更为清晰吧。
 
 以上
+</details>
+
+---
+
+<details markdown="1" style="padding: 0 0px;">
+  <summary style="cursor: pointer; font-size: 1.25em; font-weight: bold; margin: 1em 0; color: #333;">
+    🗓️ 2026: 活得清醒，持续输出 (20260101-20261231)
+  </summary>
 
 ---
 
