@@ -6,8 +6,6 @@ title: Blogs
 
 ## Blogs 博客
 
-### 2025
-
 <ul>
 {% for item in site.pages %}
   {% if item.url contains '/blogs/' and item.url != '/blogs/index.html' %} 
