@@ -2,7 +2,7 @@
 layout: post  
 title: 生活记录
 date: 2026-01-04 18:02 +0800  
-permalink: /blogs/life in Japan/ 
+permalink: /blogs/life/ 
 ---
 
 <details markdown="1" style="padding: 0 0px;">
