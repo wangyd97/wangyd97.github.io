@@ -83,6 +83,10 @@ permalink: /blogs/life in Japan/
 
 以上
 
+---
+
+
+
 </details>
 
 ---
