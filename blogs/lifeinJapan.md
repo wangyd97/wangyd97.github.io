@@ -61,7 +61,7 @@ Miyajimacho, Hatsukaichi, Hiroshima 739-0588
 
 {% for file in site.static_files %}
   {% if file.path contains "/blogs/blogs.assets/miyajima/" %}
-    <img src="{{ file.path }}" style="width: 60%; break-inside: avoid; margin-bottom: 20px;">
+    <img src="{{ file.path }}" style="width: 100%; break-inside: avoid; margin-bottom: 20px;">
   {% endif %}
 {% endfor %}
 
