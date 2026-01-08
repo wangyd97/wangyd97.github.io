@@ -20,4 +20,5 @@ permalink: /blogs/random-thoughts/
 ### 20260108
 
 - 关于【马斯克访谈：论文无用，高校浪费时间】的思考：
+  
     "Cope with the problems, cope with life, think by yourself."
